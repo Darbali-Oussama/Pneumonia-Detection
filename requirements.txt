@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+Keras~=2.15.0
+numpy
+opencv-python
